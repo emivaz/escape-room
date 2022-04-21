@@ -1,0 +1,14 @@
+/*below is the linear gradient and padding*/
+
+body{
+  background-image: linear-gradient(to left, lightsalmon, Turquoise);
+  padding:100px;
+}
+
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
