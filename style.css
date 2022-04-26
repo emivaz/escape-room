@@ -1,0 +1,38 @@
+#header:hover{
+  transform: scaleX(-1);
+}
+
+a{
+  color: SaddleBrown;
+}
+
+a{
+  font-size: 25px;
+}
+
+h2{
+  font-size: 40px;
+}
+p {
+  font-size: 30px;
+}
+
+body {
+  background-color: #FF914D;
+}
+
+a{
+  font-family: 'Khand', sans-serif;
+  }
+
+h2{
+  font-family: 'Khand', sans-serif;
+}
+
+p{
+  font-family: 'Khand', sans-serif;
+}
+
+audio::-webkit-media-controls-panel{
+  background-color:white;
+}
